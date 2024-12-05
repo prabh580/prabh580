@@ -1,27 +1,23 @@
-# 👋 Hi, I'm Prabhleen Kaur!
+### 📋 Project Overview
+This project involves analyzing marketing strategies for H&M using data-driven insights. It focuses on understanding customer preferences, pricing trends, and product promotions to enhance decision-making. The analysis was guided by the 4 P's framework: Product, Price, Place, and Promotion.
 
-I'm a Data Analyst with a background in Economics and prior experience as an Assistant Professor at the University of Delhi. I enjoy transforming data into actionable insights and exploring the intersection of analytics, machine learning, and business strategy.
+ 
 
-### 💼 Projects I've Worked On:
+### 🗂️ Key Features
+Data Cleaning & Preparation: Ensured the dataset was clean and structured for analysis.
+EDA (Exploratory Data Analysis): Conducted univariate and bivariate analysis to explore key trends.
+Pricing & Discount Analysis: Examined the relationship between MRP, sale price, and discount percentages.
+Customer Segmentation: Implemented k-means clustering for customer grouping based on MRP, sale price, and number of reviews.
+Seasonality Insights: Explored patterns related to product sales during specific times of the year.
+Predictive Modeling: Built models to predict sales price based on factors like MRP, discounts, and reviews.
 
-- Project on Melody Metrics (Spotify Analytics):
-Analyzed Spotify audio features to predict the popularity of songs using machine learning models. This project combined my interest in music with data analytics to explore patterns in audio metrics like tempo, energy, danceability, mood, and valence.
+### 📈 Tools & Technologies
+Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tableau: For data visualization and dashboards
 
-- Marketing Analytics Project:
-Conducted customer segmentation and seasonal analysis for H&M using the four P's framework, clustering, and predictive modeling. The project focused on optimizing marketing strategies and enhancing customer retention.
-
-### 🌟 Interests:
-- 🌟 Machine Learning & Predictive Analytics  
-- 📊 Marketing Analytics & Customer Segmentation  
-- 🛠️ Data Cleaning, Visualization, and Feature Engineering  
-
-
-### 💻 Tools & Technologies
-- Python, SQL, R  
-- Machine Learning Frameworks (scikit-learn, TensorFlow)  
-- Data Visualization Tools (Tableau, Power BI, Matplotlib, Seaborn)  
-
-I’m always eager to learn and collaborate on data-driven projects. Let’s connect! 😊  
-
+### 🚀 Results & Insights
+Identified key customer segments with distinct pricing and discount preferences.
+Uncovered seasonal trends affecting product demand.
+Developed actionable insights into promotional effectiveness.
 
 
